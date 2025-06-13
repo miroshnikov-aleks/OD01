@@ -24,4 +24,4 @@ def is_palindrome(s):
     return True
 
 string = "А роза упала на лапу Азора"
-print(is_palindrome(string))  
+print(is_palindrome(string))
